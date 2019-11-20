@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\samue\OneDrive\Documents\Current Classes\ECE 414\ECE414FinalGroup6\RISCProcessor\RiscProcessor\top_level.ncd
+OUTFILE=C:\Users\samue\OneDrive\Documents\Current Classes\ECE 414\ECE414FinalGroup6\RISCProcessor\RiscProcessor\top_level.bit
+FAMILY=Artix7
+PART=xc7a100t-1csg324
+WORKINGDIR=C:\Users\samue\OneDrive\Documents\Current Classes\ECE 414\ECE414FinalGroup6\RISCProcessor\RiscProcessor
+LICENSE=WebPack
+USER_INFO=211796321_0_0_637

@@ -1,0 +1,69 @@
+INFO:sim:172 - Generating IP...
+Applying current project options...
+Finished applying current project options.
+Resolving generics for 'ip_rom_input_code'...
+WARNING:sim - A core named 'ip_rom_input_code' already exists in the project.
+   Output products for this core may be overwritten.
+Applying external generics to 'ip_rom_input_code'...
+Delivering associated files for 'ip_rom_input_code'...
+Delivering EJava files for 'ip_rom_input_code'...
+Generating implementation netlist for 'ip_rom_input_code'...
+INFO:sim - Pre-processing HDL files for 'ip_rom_input_code'...
+Running synthesis for 'ip_rom_input_code'
+Running ngcbuild...
+Writing VEO instantiation template for 'ip_rom_input_code'...
+Writing Verilog behavioral simulation model for 'ip_rom_input_code'...
+WARNING:sim - Overwriting existing file
+   C:/Users/samue/OneDrive/Documents/Current Classes/ECE
+   414/ECE414FinalGroup6/RISCProcessor/RiscProcessor/ipcore_dir/tmp/_cg/ip_rom_i
+   nput_code/doc/blk_mem_gen_v7_3_vinfo.html with file from view
+   xilinx_documentation
+Delivered 1 file into directory C:/Users/samue/OneDrive/Documents/Current
+Classes/ECE
+414/ECE414FinalGroup6/RISCProcessor/RiscProcessor/ipcore_dir/tmp/_cg/ip_rom_inpu
+t_code
+Generating ASY schematic symbol...
+INFO:sim:949 - Finished generation of ASY schematic symbol.
+Generating SYM schematic symbol for 'ip_rom_input_code'...
+Generating metadata file...
+Regenerating ISE project file for 'ip_rom_input_code'...
+Generating ISE project...
+XCO file found: ip_rom_input_code.xco
+XMDF file found: ip_rom_input_code_xmdf.tcl
+Adding C:/Users/samue/OneDrive/Documents/Current Classes/ECE
+414/ECE414FinalGroup6/RISCProcessor/RiscProcessor/ipcore_dir/tmp/_cg/ip_rom_inpu
+t_code.asy -view all -origin_type imported
+Adding C:/Users/samue/OneDrive/Documents/Current Classes/ECE
+414/ECE414FinalGroup6/RISCProcessor/RiscProcessor/ipcore_dir/tmp/_cg/ip_rom_inpu
+t_code.ngc -view all -origin_type created
+Checking file "C:/Users/samue/OneDrive/Documents/Current Classes/ECE
+414/ECE414FinalGroup6/RISCProcessor/RiscProcessor/ipcore_dir/tmp/_cg/ip_rom_inpu
+t_code.ngc" for project device match ...
+File "C:/Users/samue/OneDrive/Documents/Current Classes/ECE
+414/ECE414FinalGroup6/RISCProcessor/RiscProcessor/ipcore_dir/tmp/_cg/ip_rom_inpu
+t_code.ngc" device information matches project device.
+Adding C:/Users/samue/OneDrive/Documents/Current Classes/ECE
+414/ECE414FinalGroup6/RISCProcessor/RiscProcessor/ipcore_dir/tmp/_cg/ip_rom_inpu
+t_code.sym -view all -origin_type imported
+Adding C:/Users/samue/OneDrive/Documents/Current Classes/ECE
+414/ECE414FinalGroup6/RISCProcessor/RiscProcessor/ipcore_dir/tmp/_cg/ip_rom_inpu
+t_code.v -view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "C:/Users/samue/OneDrive/Documents/Current Classes/ECE
+   414/ECE414FinalGroup6/RISCProcessor/RiscProcessor/ipcore_dir/tmp/_cg/ip_rom_i
+   nput_code.v" into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding C:/Users/samue/OneDrive/Documents/Current Classes/ECE
+414/ECE414FinalGroup6/RISCProcessor/RiscProcessor/ipcore_dir/tmp/_cg/ip_rom_inpu
+t_code.veo -view all -origin_type imported
+INFO:TclTasksC:2116 - The automatic calculation of top has been turned-off.
+   Please set the new top explicitly by running the "project set top" command.
+   To re-calculate the new top automatically, set the "Auto Implementation Top"
+   property to true.
+Top level has been set to "/ip_rom_input_code"
+Generating README file...
+Generating FLIST file...
+INFO:sim:948 - Finished FLIST file generation.
+Moving files to output directory...
+Finished moving files to output directory
+Wrote CGP file for project 'ip_rom_input_code'.
